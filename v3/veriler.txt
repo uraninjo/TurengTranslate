@@ -1,0 +1,1 @@
+fati=['mahvedilmiş', 'harap', 'harap edilmiş', 'yıkıma uğramış']
